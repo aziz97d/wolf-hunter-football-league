@@ -1,0 +1,10 @@
+.header{
+    background-image: url('../../images/header-banner.jpg');
+    background-size: cover;
+    width: 80%;
+    height: 200px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+}
